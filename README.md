@@ -94,9 +94,7 @@ TypeScript          ░░░░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-
-  ![Visitor Count](https://komarev.com/ghpvc/?username=wilgnerdev&color=6A5ACD&style=flat-square&label=Visitantes+no+perfil)
-
+  
   **"Todo expert já foi um iniciante. A diferença está em não parar."**
 
 </div>
