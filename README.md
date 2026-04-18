@@ -54,34 +54,6 @@ Sou estudante de **Engenharia de Software** e aprendiz de TI na **Fundação O P
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wilgnerdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6A5ACD"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnerdev&layout=compact&theme=tokyonight&border_color=6A5ACD"/>
-
-</div>
-
-<div align="center">
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=wilgnerdev&theme=tokyonight&border=6A5ACD&ring=6A5ACD&fire=FF6B6B)
-
-</div>
-
----
-
-## Minha jornada atual
-
-```text
-Front-End Basics    ████████████░░░░░░░░   60% — HTML & CSS sólido
-JavaScript          ████████░░░░░░░░░░░░   40% — Em evolução constante
-React               ░░░░░░░░░░░░░░░░░░░░    0% — Próxima parada 🚀
-TypeScript          ░░░░░░░░░░░░░░░░░░░░    0% — No radar
-```
-
----
-
 ## Vamos nos conectar?
 
 <div align="center">
