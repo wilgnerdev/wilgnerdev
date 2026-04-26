@@ -37,7 +37,7 @@ O objetivo é oferecer uma interface acessível e clara para que alunos e intere
 
 ## Em constante evolução
 
-Estou no início da minha jornada, mas avanço todo dia. Em breve estarei explorando **React e TypeScript** — sempre com foco em construir coisas que façam sentido no mundo real.
+Estou no início da minha jornada, mas avanço todo dia. Em breve estarei explorando **React e TypeScript, Java e DevOps** — sempre com foco em construir coisas que façam sentido no mundo real.
 
 ---
 
