@@ -1,6 +1,6 @@
 ##  Oi, Eu sou o Wilgner!
 
-🎓 Desenvolvedor Front-end.
+🎓 Desenvolvedor Fullstack em formação.
 
 💼 Aprendiz do curso Suporte de TI na **Fundação O Pão dos Pobres**, em Porto Alegre/RS.
 
