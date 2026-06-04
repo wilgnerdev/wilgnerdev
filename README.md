@@ -1,6 +1,6 @@
 ##  Oi, Eu sou o Wilgner!
 
-🎓 Estudante de **Engenharia de Software**, cursando 1º semestre na *UNINTER*.
+🎓 Desenvolvedor Front-end.
 
 💼 Aprendiz do curso Suporte de TI na **Fundação O Pão dos Pobres**, em Porto Alegre/RS.
 
